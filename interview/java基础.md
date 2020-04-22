@@ -56,7 +56,7 @@
 
 1. java集合框架结构
 
-   ![img](https://www.runoob.com/wp-content/uploads/2014/01/2243690-9cd9c896e0d512ed.gif)
+   ![img](https://github.com/191824852/dataAndAlgo/blob/master/interview/img/java%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6%E5%9B%BE.gif)
 
 2. ArrayList , LinkedList，Vector区别
 
